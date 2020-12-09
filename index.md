@@ -1,6 +1,6 @@
 ## Welcome to AIW-PMSC group
 
-AIW-PMSC团队属于中国气象局公共气象服务中心服务产品室智能科，团队致力于You can use the [editor on GitHub](https://github.com/AIW-PMSC/aiw-pmsc.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+AIW-PMSC团队属于中国气象局公共气象服务中心服务产品室智能科，团队致力于以深度学习技术为方法，以气象知识为先验，探求深度学科融合的气象新技术。You can use the [editor on GitHub](https://github.com/AIW-PMSC/aiw-pmsc.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
