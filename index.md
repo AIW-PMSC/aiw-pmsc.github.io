@@ -8,36 +8,23 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 全国24小时1公里逐小时预报产品
 
-```markdown
 ![Image](./down.png)
-```
 
 全国雨雪相态预报产品
 
-```markdown
 ![Image](./phase.png)
-```
 
 全国云分类产品
 
-```markdown
 ![Image](./cloud.png)
-```
-
 
 个性化面雨量预报服务产品
 
-```markdown
 ![Image](./rain.png)
-```
-
 
 个性化雷达回波外推预报产品
 
-```markdown
 ![Image](./radar.png)
-```
-
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
