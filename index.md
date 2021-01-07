@@ -10,6 +10,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ![Image](./down.png)
 
+<div align=center><img width="350" height="500" src="./down.png"/>
+
 全国雨雪相态预报产品
 
 ![Image](./phase.png)
